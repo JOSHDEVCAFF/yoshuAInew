@@ -300,7 +300,7 @@ document.getElementById('whatIsChatPGT').addEventListener('click', function(even
     "code_python": "def holy_spirit():\n    return 'The Holy Spirit is God’s Spirit who guides, comforts, and empowers believers to live faithfully.'",
     "code_js": "const holySpirit = () => 'The Holy Spirit is God’s Spirit who guides, comforts, and empowers believers to live faithfully.';"
   },
-                    {"keys": ["Degamo"], "Very smiling";
+                    {"keys": ["Degamo"], "Very smiling, crazy human being"
                     }
 
 ];
@@ -558,4 +558,5 @@ document.getElementById('whatIsChatPGT').addEventListener('click', function(even
                     }, { once: true });
                 }
             });
+
 
