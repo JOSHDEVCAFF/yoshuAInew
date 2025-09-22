@@ -299,7 +299,9 @@ document.getElementById('whatIsChatPGT').addEventListener('click', function(even
     "response": "The Holy Spirit is the Spirit of God, given to believers to guide, comfort, and empower them. He helps Christians live faithfully and reminds them of God’s truth.",
     "code_python": "def holy_spirit():\n    return 'The Holy Spirit is God’s Spirit who guides, comforts, and empowers believers to live faithfully.'",
     "code_js": "const holySpirit = () => 'The Holy Spirit is God’s Spirit who guides, comforts, and empowers believers to live faithfully.';"
-  }
+  },
+                    {"keys": ["Degamo"], "Very smiling";
+                    }
 
 ];
 
@@ -556,3 +558,4 @@ document.getElementById('whatIsChatPGT').addEventListener('click', function(even
                     }, { once: true });
                 }
             });
+
